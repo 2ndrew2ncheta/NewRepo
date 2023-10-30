@@ -11,7 +11,7 @@ setuptools.setup(
     description='Demo on pip package creation', ## description of package
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/sandeepmj/pip-package-demo/tree/main',# url to repo
+    url='https://github.com/2ndrew2ncheta/NewRepo/tree/main',# url to repo
     project_urls = {
         "Bug Tracker": "https://github.com/sandeepmj/pip-package-demo/issues"
     }, ## url to issues page on your repo

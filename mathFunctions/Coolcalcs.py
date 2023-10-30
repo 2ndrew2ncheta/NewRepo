@@ -11,7 +11,7 @@ def subtractNumbers(number1, number2):
 	return number1-number2
 
 import glob
-def gatherFiles(path)
+def gatherFiles(path):
 	'''
 	returns a glob
 	'''

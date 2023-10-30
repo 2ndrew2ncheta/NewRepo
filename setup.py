@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/2ndrew2ncheta/NewRepo/',# url to repo
     project_urls = {
-        "Bug Tracker": "https://github.com/sandeepmj/pip-package-demo/issues"
+        "Bug Tracker": "https://github.com/2ndrew2ncheta/NewRepo/issues"
     }, ## url to issues page on your repo
     license='MIT',
     packages=['mathFunctions'], ## name of folder that holds the functions

@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/sandeepmj/pip-package-demo/issues"
     }, ## url to issues page on your repo
     license='MIT',
-    packages=['demo'], ## name of folder that holds the functions
+    packages=['mathFunctions'], ## name of folder that holds the functions
     install_requires=[], ## names of packages required to run your functions
 )
